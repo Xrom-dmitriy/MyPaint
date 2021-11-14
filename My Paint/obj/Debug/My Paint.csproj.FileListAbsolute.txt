@@ -1,0 +1,10 @@
+C:\Users\Дмитрий\source\repos\My Paint\My Paint\bin\Debug\My Paint.exe.config
+C:\Users\Дмитрий\source\repos\My Paint\My Paint\bin\Debug\My Paint.exe
+C:\Users\Дмитрий\source\repos\My Paint\My Paint\bin\Debug\My Paint.pdb
+C:\Users\Дмитрий\source\repos\My Paint\My Paint\obj\Debug\My Paint.csprojAssemblyReference.cache
+C:\Users\Дмитрий\source\repos\My Paint\My Paint\obj\Debug\My_Paint.Form1.resources
+C:\Users\Дмитрий\source\repos\My Paint\My Paint\obj\Debug\My_Paint.Properties.Resources.resources
+C:\Users\Дмитрий\source\repos\My Paint\My Paint\obj\Debug\My Paint.csproj.GenerateResource.cache
+C:\Users\Дмитрий\source\repos\My Paint\My Paint\obj\Debug\My Paint.csproj.CoreCompileInputs.cache
+C:\Users\Дмитрий\source\repos\My Paint\My Paint\obj\Debug\My Paint.exe
+C:\Users\Дмитрий\source\repos\My Paint\My Paint\obj\Debug\My Paint.pdb
